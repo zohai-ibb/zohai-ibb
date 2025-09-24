@@ -1,5 +1,4 @@
-<img src="[https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif
-)"/>
+![MasterHead]([https://i.imgur.com/dBaSKWF.gif](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif])
 
 <h1 align="center">Hi 👋, I'm JOHAIB ANSARI</h1>
 <h3 align="center">A passionate Software Developer | Java | Spring Boot | DSA | Web Development</h3>
@@ -9,7 +8,7 @@
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on an **ZACHManage - Social Media and Contact Manager Application**  
 - 🌱 I’m currently learning about **Open Source Contribution, AWS, & Docker**  
-- 👨‍💻 All of my projects are available here on PORTFOLIO(https://zohai-ibb.github.io/Portfolio2/)
+- 👨‍💻 All of my projects are available here on [PORTFOLIO](https://zohai-ibb.github.io/Portfolio2/)
 - 💬 Ask me about **Java, Spring Boot, SQL, Web Development**  
 - 📫 Reach me at **johaibansari002@gmail.com**  
 - 📄 Know more about my experiences [My Resume](https://drive.google.com/file/d/1AILJATUeE-kg5h5geypD9VLJ5pmJHeQI/view)  
