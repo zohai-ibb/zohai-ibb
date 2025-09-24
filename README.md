@@ -1,4 +1,6 @@
-![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="MasterHead" height="250"/>
+</p>
 
 <h1 align="center">Hi 👋, I'm JOHAIB ANSARI</h1>
 <h3 align="center">A passionate Software Developer | Java | Spring Boot | DSA | Web Development</h3>
