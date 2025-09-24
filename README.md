@@ -1,17 +1,16 @@
 
-![MasterHead](https://i.imgur.com/dBaSKWF.gif) 
 
-<h1 align="center">Hi 👋, I'm Johaib Ansari</h1>
-<h3 align="center">A passionate Software Developer | Java | Spring Boot | Web Development</h3>
+<h1 align="center">Hi 👋, I'm JOHAIB ANSARI</h1>
+<h3 align="center">A passionate Software Developer | Java | Spring Boot | DSA | Web Development</h3>
 
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on an **Estate Management Application**  
-- 🌱 I’m currently learning **Advanced RDBMS, System Design & Full-Stack Development**  
-- 👨‍💻 All of my projects are available here on [My GitHub](https://github.com/JohaibAnsari)  
+- 🔭 I’m currently working on an **ZACHManage - Social Media and Contact Manager Application**  
+- 🌱 I’m currently learning **Open Source Contribution, AWS, & Docker**  
+- 👨‍💻 All of my projects are available here on [My GitHub](https://github.com/zohai-ibb)  
 - 💬 Ask me about **Java, Spring Boot, SQL, Web Development**  
-- 📫 Reach me at **your.email@example.com**  
+- 📫 Reach me at **johaibansari002@gmail.com**  
 - 📄 Know more about my experiences [My Resume](#)  
 - ⚡ Fun fact: `while(true) { Eat(); Sleep(); Code(); Repeat(); }`  
 
@@ -19,10 +18,10 @@
 
 ### 🌐 Connect With Me
 <p align="left">
-<a href="https://github.com/JohaibAnsari" target="blank"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="40"/></a>
-<a href="https://linkedin.com/in/your-linkedin" target="blank"><img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" width="40"/></a>
-<a href="https://twitter.com/your-twitter" target="blank"><img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png" width="40"/></a>
-<a href="https://instagram.com/your-instagram" target="blank"><img src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png" width="40"/></a>
+<a href="https://github.com/zohai-ibb" target="blank"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="40"/></a>
+<a href="https://www.linkedin.com/in/johaib-ansari-154b28249/" target="blank"><img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" width="40"/></a>
+<a href="https://leetcode.com/u/johaibansari002/" target="blank"><img src="[https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png](https://leetcode.com/static/images/LeetCode_logo_rvs.png)" width="40"/></a>
+<a href="https://instagram.com/zohaiibb_" target="blank"><img src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png" width="40"/></a>
 </p>
 
 ---
