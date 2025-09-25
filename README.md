@@ -20,15 +20,12 @@
 
 ### 🌐 Connect With Me
 <p align="left">
-<a href="https://github.com/zohai-ibb" target="blank"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="40"/></a>
 <a href="https://www.linkedin.com/in/johaib-ansari-154b28249/" target="blank"><img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" width="40"/></a>
 <a href="https://leetcode.com/u/johaibansari002/" target="blank"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="40"/></a>
 <a href="https://instagram.com/zohaiibb_" target="blank"><img src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png" width="40"/></a>
 </p>
 
 ---
-
-### 🛠️ Languages & Tools
 
 #### 💻 Languages
 <p align="left">
