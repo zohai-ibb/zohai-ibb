@@ -8,13 +8,13 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on an **ZACHManage - Social Media and Contact Manager Application**  
-- 🌱 I’m currently learning about **Open Source Contribution, AWS, & Docker**  
+- 🔭 I’m currently working on - ###
+- 🌱 I’m currently learning  - ###  
 - 👨‍💻 All of my projects are available here on [PORTFOLIO](https://zohai-ibb.github.io/Portfolio2/)
-- 💬 Ask me about **Java, Spring Boot, SQL, Web Development**  
+- 💬 Ask me about **Java, Spring Boot, SQL, Web Development, Python**  
 - 📫 Reach me at **johaibansari002@gmail.com**  
 - 📄 Know more about my experiences [My Resume](https://drive.google.com/file/d/1AILJATUeE-kg5h5geypD9VLJ5pmJHeQI/view)  
-- ⚡ Fun fact: while(true) { Eat(); Sleep(); Code(); Repeat(); } 
+- ⚡ Fact: One Piece is Real
 
 ---
 
