@@ -8,8 +8,8 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on - ###
-- 🌱 I’m currently learning  - ###  
+- 🔭 I’m currently working in - CSIR-CBRI Roorkee (As an Intern)
+- 🌱 I’m currently learning  - Spring Boot nd stuffs 
 - 👨‍💻 All of my projects are available here on [PORTFOLIO](https://zohai-ibb.github.io/Portfolio2/)
 - 💬 Ask me about **Java, Spring Boot, SQL, Web Development, Python**  
 - 📫 Reach me at **johaibansari002@gmail.com**  
